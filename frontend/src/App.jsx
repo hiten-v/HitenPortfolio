@@ -7,6 +7,7 @@ function App() {
     <>
       <div className="flex justify-center">
         Hello Hiten here
+        Portfolio 2
       </div>
     </>
   )
