@@ -6,8 +6,7 @@ function Navbar() {
   return (
     <>
       <div className="flex justify-center">
-        Hello Hiten here
-        Portfolio 2
+        Navbar
       </div>
     </>
   )
