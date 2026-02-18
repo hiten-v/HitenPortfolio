@@ -9,6 +9,7 @@ function Np() {
         Navbar
         <div className="flex flex-col gap-2">
           <div>Link1 </div>
+          <div></div>
           <div>Link1 </div>
           <div>Link1 </div>
           <div>Link1 </div>
